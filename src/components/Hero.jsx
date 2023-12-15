@@ -15,11 +15,12 @@ const Hero = () => {
 
         <div>
           <h1 className={`${styles.heroHeadText} text-white`}>
-            Hæ ég heiti <span className="text-[#915eff]">Heimir</span>
+            Hæ ég heiti <span className="text-[#915eff]">Heimir</span> snær
+            Vilhjálmsson
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             Ég er búin með Stúdentspróf <br className="sm:block hidden" />
-            og ég er sjálfs kenndur forritari
+            og ég er sjálfs Lærður forritari
           </p>
         </div>
       </div>
