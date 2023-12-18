@@ -114,12 +114,11 @@ const experiences = [
     company_name: "Html",
     icon: htmllogo,
     iconBg: "#383E56",
-    date: "Janúar 2021",
+    date: "Apríl 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Árið 2021 skrifaði ég fyrstu línuna mína í HTML og CSS til að forðast watermarkið á wix",
+      "Það var sögu verkefni þar sem við áttum að gera heimasíður og mér langaði að vera öðruvísi",
+      "Það fór ekki lengar en það verkefni í smá tíma en þetta var byrjunin á ævintýrinu mínu inn í  forritunar heiminn"
     ],
   },
   {
@@ -129,10 +128,9 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Febrúar 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Árið 2022 langaði mér að fara lengra þar sem ég var byrjaður að búa til síður með HTML og CSS",
+      "Það var þá þegar ég fann út hvernig Javascript gæti betur bætt síðurnar mínar með því að gefa þeim notkunarleika",
+      "Tímin sem ég fann út hvað Javascript var sýndi mér smá hlið að hvað forritun var og það má segja að ég var ekki tilbúin",
     ],
   },
   {
@@ -142,10 +140,9 @@ const experiences = [
     iconBg: "#383E56",
     date: "Júlí 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Eftir að hafa lært Javascript í nærum ár fann ég út þann sannleika að flestir nota ekki bara JS heldur eitthvað sem heitir React",
+      "Ég var á síðustu önninni minni í skóla þegar ég ákvað að mér langaði að læra á React á meðan skóla",
+      "Að læra á React hefur komið mér lengra en ég hafði hugsað mér og nú er ég að skoða Next.js sem er næst á dagskrá"
     ],
   },
 ];
@@ -243,4 +240,4 @@ const projects = [
   },
 ];
 
-export { services, technologies, experiences, testimonials, projects };
+export { services, technologies, experiences, projects };
